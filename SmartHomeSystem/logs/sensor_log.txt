@@ -1,0 +1,200 @@
+[Mon Jul 28 02:07:50 2025
+] Sensor ID: 2, Type: motion, Value: 0.00
+[Mon Jul 28 02:07:50 2025
+] Sensor ID: 1, Type: temperature, Value: 19.00
+[Mon Jul 28 02:07:53 2025
+] Sensor ID: 2, Type: motion, Value: 1.00
+[Mon Jul 28 02:07:53 2025
+] Sensor ID: 1, Type: temperature, Value: 25.00
+[Mon Jul 28 02:07:56 2025
+] Sensor ID: 1, Type: temperature, Value: 16.00
+[Mon Jul 28 02:07:56 2025
+] Sensor ID: 2, Type: motion, Value: 0.00
+[Mon Jul 28 02:07:59 2025
+] Sensor ID: 1, Type: temperature, Value: 22.00
+[Mon Jul 28 02:07:59 2025
+] Sensor ID: 2, Type: motion, Value: 1.00
+[Mon Jul 28 02:08:02 2025
+] Sensor ID: 1, Type: temperature, Value: 28.00
+[Mon Jul 28 02:08:02 2025
+] Sensor ID: 2, Type: motion, Value: 0.00
+[Mon Jul 28 02:08:05 2025
+] Sensor ID: 1, Type: temperature, Value: 19.00
+[Mon Jul 28 02:08:05 2025
+] Sensor ID: 2, Type: motion, Value: 1.00
+[Mon Jul 28 02:08:08 2025
+] Sensor ID: 1, Type: temperature, Value: 25.00
+[Mon Jul 28 02:08:08 2025
+] Sensor ID: 2, Type: motion, Value: 0.00
+[Mon Jul 28 02:08:11 2025
+] Sensor ID: 1, Type: temperature, Value: 16.00
+[Mon Jul 28 02:08:11 2025
+] Sensor ID: 2, Type: motion, Value: 1.00
+[Mon Jul 28 02:08:14 2025
+] Sensor ID: 1, Type: temperature, Value: 22.00
+[Mon Jul 28 02:08:14 2025
+] Sensor ID: 2, Type: motion, Value: 0.00
+[Mon Jul 28 02:08:17 2025
+] Sensor ID: 1, Type: temperature, Value: 28.00
+[Mon Jul 28 02:08:17 2025
+] Sensor ID: 2, Type: motion, Value: 1.00
+[Mon Jul 28 02:08:20 2025
+] Sensor ID: 2, Type: motion, Value: 0.00
+[Mon Jul 28 02:08:20 2025
+] Sensor ID: 1, Type: temperature, Value: 19.00
+[Mon Jul 28 02:08:23 2025
+] Sensor ID: 2, Type: motion, Value: 1.00
+[Mon Jul 28 02:08:23 2025
+] Sensor ID: 1, Type: temperature, Value: 25.00
+[Mon Jul 28 02:08:26 2025
+] Sensor ID: 2, Type: motion, Value: 0.00
+[Mon Jul 28 02:08:26 2025
+] Sensor ID: 1, Type: temperature, Value: 16.00
+[Mon Jul 28 02:08:29 2025
+] Sensor ID: 2, Type: motion, Value: 1.00
+[Mon Jul 28 02:08:29 2025
+] Sensor ID: 1, Type: temperature, Value: 22.00
+[Mon Jul 28 02:08:32 2025
+] Sensor ID: 2, Type: motion, Value: 0.00
+[Mon Jul 28 02:08:32 2025
+] Sensor ID: 1, Type: temperature, Value: 28.00
+[Mon Jul 28 02:08:35 2025
+] Sensor ID: 2, Type: motion, Value: 1.00
+[Mon Jul 28 02:08:35 2025
+] Sensor ID: 1, Type: temperature, Value: 19.00
+[Mon Jul 28 02:08:38 2025
+] Sensor ID: 1, Type: temperature, Value: 25.00
+[Mon Jul 28 02:08:38 2025
+] Sensor ID: 2, Type: motion, Value: 0.00
+[Mon Jul 28 02:08:41 2025
+] Sensor ID: 1, Type: temperature, Value: 16.00
+[Mon Jul 28 02:08:41 2025
+] Sensor ID: 2, Type: motion, Value: 1.00
+[Mon Jul 28 02:08:44 2025
+] Sensor ID: 1, Type: temperature, Value: 22.00
+[Mon Jul 28 02:08:44 2025
+] Sensor ID: 2, Type: motion, Value: 0.00
+[Mon Jul 28 02:08:47 2025
+] Sensor ID: 1, Type: temperature, Value: 28.00
+[Mon Jul 28 02:08:47 2025
+] Sensor ID: 2, Type: motion, Value: 1.00
+[Mon Jul 28 02:08:50 2025
+] Sensor ID: 1, Type: temperature, Value: 19.00
+[Mon Jul 28 02:08:50 2025
+] Sensor ID: 2, Type: motion, Value: 0.00
+[Mon Jul 28 02:08:53 2025
+] Sensor ID: 2, Type: motion, Value: 0.00
+[Mon Jul 28 02:08:53 2025
+] Sensor ID: 1, Type: temperature, Value: 25.00
+[Mon Jul 28 02:08:56 2025
+] Sensor ID: 2, Type: motion, Value: 0.00
+[Mon Jul 28 02:08:56 2025
+] Sensor ID: 1, Type: temperature, Value: 16.00
+[Mon Jul 28 02:08:59 2025
+] Sensor ID: 2, Type: motion, Value: 1.00
+[Mon Jul 28 02:08:59 2025
+] Sensor ID: 1, Type: temperature, Value: 22.00
+[Mon Jul 28 02:09:02 2025
+] Sensor ID: 2, Type: motion, Value: 1.00
+[Mon Jul 28 02:09:02 2025
+] Sensor ID: 1, Type: temperature, Value: 29.00
+[Mon Jul 28 02:20:40 2025
+] Sensor ID: 2, Type: motion, Value: 0.00
+[Mon Jul 28 02:20:40 2025
+] Sensor ID: 1, Type: temperature, Value: 24.00
+[Mon Jul 28 02:20:43 2025
+] Sensor ID: 2, Type: motion, Value: 1.00
+[Mon Jul 28 02:20:43 2025
+] Sensor ID: 1, Type: temperature, Value: 15.00
+[Mon Jul 28 02:20:46 2025
+] Sensor ID: 1, Type: temperature, Value: 21.00
+[Mon Jul 28 02:20:46 2025
+] Sensor ID: 2, Type: motion, Value: 0.00
+[Mon Jul 28 02:20:49 2025
+] Sensor ID: 2, Type: motion, Value: 1.00
+[Mon Jul 28 02:20:49 2025
+] Sensor ID: 1, Type: temperature, Value: 27.00
+[Mon Jul 28 02:20:52 2025
+] Sensor ID: 1, Type: temperature, Value: 18.00
+[Mon Jul 28 02:20:52 2025
+] Sensor ID: 2, Type: motion, Value: 0.00
+[Mon Jul 28 02:20:55 2025
+] Sensor ID: 2, Type: motion, Value: 1.00
+[Mon Jul 28 02:20:55 2025
+] Sensor ID: 1, Type: temperature, Value: 24.00
+[Mon Jul 28 02:20:58 2025
+] Sensor ID: 2, Type: motion, Value: 0.00
+[Mon Jul 28 02:20:58 2025
+] Sensor ID: 1, Type: temperature, Value: 22.00
+[Mon Jul 28 02:21:01 2025
+] Sensor ID: 1, Type: temperature, Value: 21.00
+[Mon Jul 28 02:21:01 2025
+] Sensor ID: 2, Type: motion, Value: 1.00
+[Mon Jul 28 02:21:04 2025
+] Sensor ID: 2, Type: motion, Value: 0.00
+[Mon Jul 28 02:21:04 2025
+] Sensor ID: 1, Type: temperature, Value: 27.00
+[Mon Jul 28 02:21:07 2025
+] Sensor ID: 1, Type: temperature, Value: 18.00
+[Mon Jul 28 02:21:07 2025
+] Sensor ID: 2, Type: motion, Value: 1.00
+[Mon Jul 28 02:21:10 2025
+] Sensor ID: 1, Type: temperature, Value: 24.00
+[Mon Jul 28 02:21:10 2025
+] Sensor ID: 2, Type: motion, Value: 0.00
+[Mon Jul 28 02:21:13 2025
+] Sensor ID: 1, Type: temperature, Value: 15.00
+[Mon Jul 28 02:21:13 2025
+] Sensor ID: 2, Type: motion, Value: 1.00
+[Mon Jul 28 02:21:16 2025
+] Sensor ID: 2, Type: motion, Value: 0.00
+[Mon Jul 28 02:21:16 2025
+] Sensor ID: 1, Type: temperature, Value: 21.00
+[Mon Jul 28 02:21:19 2025
+] Sensor ID: 1, Type: temperature, Value: 27.00
+[Mon Jul 28 02:21:19 2025
+] Sensor ID: 2, Type: motion, Value: 1.00
+[Mon Jul 28 02:21:22 2025
+] Sensor ID: 1, Type: temperature, Value: 18.00
+[Mon Jul 28 02:21:22 2025
+] Sensor ID: 2, Type: motion, Value: 0.00
+[Mon Jul 28 02:21:25 2025
+] Sensor ID: 2, Type: motion, Value: 1.00
+[Mon Jul 28 02:21:25 2025
+] Sensor ID: 1, Type: temperature, Value: 24.00
+[Mon Jul 28 02:21:28 2025
+] Sensor ID: 2, Type: motion, Value: 0.00
+[Mon Jul 28 02:21:28 2025
+] Sensor ID: 1, Type: temperature, Value: 15.00
+[Mon Jul 28 02:21:31 2025
+] Sensor ID: 2, Type: motion, Value: 1.00
+[Mon Jul 28 02:21:31 2025
+] Sensor ID: 1, Type: temperature, Value: 21.00
+[Mon Jul 28 02:21:34 2025
+] Sensor ID: 1, Type: temperature, Value: 27.00
+[Mon Jul 28 02:21:34 2025
+] Sensor ID: 2, Type: motion, Value: 0.00
+[Mon Jul 28 02:21:37 2025
+] Sensor ID: 1, Type: temperature, Value: 18.00
+[Mon Jul 28 02:21:37 2025
+] Sensor ID: 2, Type: motion, Value: 1.00
+[Mon Jul 28 02:21:40 2025
+] Sensor ID: 2, Type: motion, Value: 0.00
+[Mon Jul 28 02:21:40 2025
+] Sensor ID: 1, Type: temperature, Value: 24.00
+[Mon Jul 28 02:21:43 2025
+] Sensor ID: 1, Type: temperature, Value: 22.00
+[Mon Jul 28 02:21:43 2025
+] Sensor ID: 2, Type: motion, Value: 1.00
+[Mon Jul 28 02:21:46 2025
+] Sensor ID: 2, Type: motion, Value: 0.00
+[Mon Jul 28 02:21:46 2025
+] Sensor ID: 1, Type: temperature, Value: 21.00
+[Mon Jul 28 02:21:49 2025
+] Sensor ID: 2, Type: motion, Value: 1.00
+[Mon Jul 28 02:21:49 2025
+] Sensor ID: 1, Type: temperature, Value: 27.00
+[Mon Jul 28 02:21:52 2025
+] Sensor ID: 1, Type: temperature, Value: 18.00
+[Mon Jul 28 02:21:52 2025
+] Sensor ID: 2, Type: motion, Value: 0.00

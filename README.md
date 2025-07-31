@@ -8,7 +8,7 @@ This repository contains five modular and well-documented C projects covering re
 
 ## 📦 Project List
 
-1. [Smart Home System](#1-smart-home-system)
+1. [Smart Home System](https://www.tinkercad.com/things/lJD6QBXhg3m-project-1-smart-home-system)
 2. [Mini Shell with Built-in Commands](#2-mini-shell-with-built-in-commands)
 3. [Student Management System using Structures](#3-student-management-system-using-structures)
 4. [Dynamic Function Dispatcher](#4-dynamic-function-dispatcher-using-function-pointers-and-dynamic-memory)
@@ -20,21 +20,8 @@ This repository contains five modular and well-documented C projects covering re
 
 ### ✅ Description
 
-An embedded simulation of a smart home system using temperature and motion sensors to automate lights, alarms, and appliances.
+This project simulates a smart home system in Tinkercad using an Arduino Uno, a temperature sensor, and a PIR motion sensor.
 
-### 🔧 Features
-
-* Uses **pointers and dynamic memory** to store sensor data
-* Implements **file logging** for sensor activity
-* **Multi-threaded**: concurrent sensing and response using `pthreads`
-
-### 🚀 How to Run
-
-```bash
-cd SmartHomeSystem
-make
-./smarthome
-```
 
 ---
 
